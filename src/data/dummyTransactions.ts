@@ -1,0 +1,22 @@
+export const dummyTransactions = [
+    { id: 1, name: "Rahul Sharma", amount: 1000, campaign: "Smile on Wheels Healthcare", date: "Apr 10, 2026" },
+    { id: 2, name: "Aisha Khan", amount: 2500, campaign: "Mid-Day Meal Program", date: "Apr 10, 2026" },
+    { id: 3, name: "Ravi Kumar", amount: 500, campaign: "Educate Girls Initiative", date: "Apr 11, 2026" },
+    { id: 4, name: "Sneha Reddy", amount: 3000, campaign: "Women Empowerment", date: "Apr 11, 2026" },
+    { id: 5, name: "Arjun Mehta", amount: 1500, campaign: "Free Surgeries Initiative", date: "Apr 12, 2026" },
+    { id: 6, name: "Fatima Ali", amount: 2000, campaign: "Child Rights Protection", date: "Apr 12, 2026" },
+    { id: 7, name: "Karan Patel", amount: 1200, campaign: "Flood Relief Program", date: "Apr 12, 2026" },
+    { id: 8, name: "Priya Singh", amount: 1800, campaign: "Learning Improvement Program", date: "Apr 13, 2026" },
+    { id: 9, name: "Vikram Joshi", amount: 2200, campaign: "Rural Education Program", date: "Apr 13, 2026" },
+    { id: 10, name: "Neha Gupta", amount: 900, campaign: "Cloth for Work Initiative", date: "Apr 13, 2026" },
+    { id: 11, name: "Aditya Verma", amount: 4000, campaign: "Transparent Donations Platform", date: "Apr 14, 2026" },
+    { id: 12, name: "Zara Sheikh", amount: 1600, campaign: "Elder Care Support", date: "Apr 14, 2026" },
+    { id: 13, name: "Rohan Das", amount: 2100, campaign: "School Development", date: "Apr 14, 2026" },
+    { id: 14, name: "Pooja Nair", amount: 1300, campaign: "Child Protection Program", date: "Apr 14, 2026" },
+    { id: 15, name: "Manish Yadav", amount: 800, campaign: "Community Support Program", date: "Apr 15, 2026" },
+    { id: 16, name: "Kavya Iyer", amount: 2700, campaign: "Smile on Wheels Healthcare", date: "Apr 15, 2026" },
+    { id: 17, name: "Imran Khan", amount: 3200, campaign: "Mid-Day Meal Program", date: "Apr 15, 2026" },
+    { id: 18, name: "Anjali Desai", amount: 1100, campaign: "Educate Girls Initiative", date: "Apr 15, 2026" },
+    { id: 19, name: "Suresh Babu", amount: 3500, campaign: "Women Empowerment", date: "Apr 16, 2026" },
+    { id: 20, name: "Meera Kapoor", amount: 2000, campaign: "Free Surgeries Initiative", date: "Apr 16, 2026" }
+];
