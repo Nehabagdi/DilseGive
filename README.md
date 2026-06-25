@@ -35,4 +35,4 @@ npm start
 
 ## Contributors
 - Neha Bagdi
-- Siva Sathwika
+
